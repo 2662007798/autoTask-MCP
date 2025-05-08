@@ -40,7 +40,8 @@ MCP配置文件说明：
 ### 更新日志：
 - 2025-5-8 11.30：更新英文Tools来兼容cursor。
 
-
+交流群：
+![图片描述](https://github.com/2662007798/autoTask-MCP/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250508114030.jpg)
 
 ### 工作流程
 
