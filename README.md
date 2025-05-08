@@ -19,7 +19,7 @@
 ![图片描述](https://github.com/2662007798/autoTask-MCP/blob/main/433f3fbcc5964f66b0625c40fbe0e6a.png)
 
 
-## MCP配置文件----一键配置支持MCP的服务即可使用
+## MCP配置文件----一键配置支持MCP的服务即可使用--------注意：使用SSE方式链接
 
 ```json
 {
