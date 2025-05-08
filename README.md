@@ -16,7 +16,7 @@
 ### 核心理念
 
 顺序思考（Sequential Thinking）是我们 AutoTask 的核心设计理念。这种方法模拟人类的认知过程，将复杂问题分解为一系列有序的思考步骤，从而达到更高质量的结果。
-
+![图片描述](https://github.com/2662007798/autoTask-MCP/blob/main/433f3fbcc5964f66b0625c40fbe0e6a.png)
 ### 工作流程
 
 1. **问题识别与分析**
