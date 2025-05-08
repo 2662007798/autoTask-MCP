@@ -39,7 +39,10 @@ MCP配置文件说明：
 - 服务器URL：http://43.161.219.166:8000/sse
 
 ### 更新日志：
-- 2025-5-8 11.30：更新英文Tools来兼容cursor。
+- 2025-5-8 :
+- 1、更新英文Tools来兼容cursor。
+- 2、减少不必要的Token消耗
+- 3、更直观的展示数据，让用户一目了然
 
 交流群：
 ![图片描述](https://github.com/2662007798/autoTask-MCP/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250508114030.jpg)
