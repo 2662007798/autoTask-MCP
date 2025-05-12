@@ -29,7 +29,7 @@
     "mcpServers": {
         "auto-mcp": {
             "type": "sse",
-            "url": "http://43.161.219.166:8000/sse"
+            "url": "http://dmxmcp.com:8000/sse"
         }
     }
 }
