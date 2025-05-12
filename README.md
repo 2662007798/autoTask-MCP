@@ -38,8 +38,7 @@
 MCP配置文件说明：
 - 服务器名称：auto-mcp
 - 服务器类型：sse
-- 服务器URL：http://43.161.219.166:8000/sse
-
+- 服务器URL：http://dmxmcp.com:8000/sse
 ### Cherr studio 配置方式：
 ![图片描述](https://github.com/2662007798/autoTask-MCP/blob/main/1746692593258.jpg)
 
