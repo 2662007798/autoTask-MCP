@@ -20,7 +20,7 @@
 
 ## AutoTask 顺序思考流程
 # 一句话生成你的旅行报告
- [旅行报告](https://github.com/2662007798/autoTask-MCP/blob/main/070909_%E5%8C%97%E4%BA%AC-%E4%B8%89%E4%BA%9A%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5.md)
+ [查看旅行报告](https://github.com/2662007798/autoTask-MCP/blob/main/070909_%E5%8C%97%E4%BA%AC-%E4%B8%89%E4%BA%9A%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5.md)
 ### 核心理念
 
 顺序思考（Sequential Thinking）是我们 AutoTask 的核心设计理念。这种方法模拟人类的认知过程，将复杂问题分解为一系列有序的思考步骤，从而达到更高质量的结果。
